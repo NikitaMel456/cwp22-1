@@ -35,6 +35,6 @@ module.exports = (expression) => {
             return null;
         }
     }
-
+console.log('new version');
     return stack.length !== 1 ? null : stack.pop();
 };
