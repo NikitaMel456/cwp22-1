@@ -1,8 +1,8 @@
 {
-  "name": "cwp-22-1",
-  "author": "NikitaMel456",
+  "name": "@noprgr/cwp22-1",
+  "author": "noprgr",
   "description": "Test",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/NikitaMel456/cwp22-1.git"

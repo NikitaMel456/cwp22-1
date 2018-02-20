@@ -1,4 +1,4 @@
-console.log('Hello! version: 1.0.0');
+console.log('Hello! version: 1.0.1');
 
 const operators = {
     '+': (a, b) => b + a,
@@ -36,6 +36,5 @@ module.exports = (expression) => {
         }
     }
 console.log('asdasdas');
-console.log('new version++');
     return stack.length !== 1 ? null : stack.pop();
 };
